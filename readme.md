@@ -22,7 +22,7 @@
 - #Sube el contenido a GitHub
     $ git push origin main
 
-    
+
 
 ✔✔ PASOS PARA SUBIR UN ARCHIVO MODIFICADO EN PC HACIA GITHUB ✔✔
 
@@ -34,3 +34,11 @@
 
 - #Sube el contenido a GitHub
    $ git push origin main
+
+
+✔✔ PASOS PARA DESCARGAR UN ARCHIVO DE GITHUB HACIA PC ✔✔
+-  #Actualiza las novedades en git
+    $ git fetch origin main 
+
+-  #Actualiza los archivos
+    $ git pull origin main 
