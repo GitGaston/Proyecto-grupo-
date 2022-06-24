@@ -34,6 +34,7 @@
 
 - #Sube el contenido a GitHub
    $ git push origin main
+<<<<<<< HEAD:readme.md
 
 
 ✔✔ PASOS PARA DESCARGAR UN ARCHIVO DE GITHUB HACIA PC ✔✔
@@ -42,3 +43,5 @@
 
 -  #Actualiza los archivos
     $ git pull origin main 
+=======
+>>>>>>> 1c8c638b63aaffe09cbeb4d94d3b4ae1a8d3c717:conceptos_scrum.md
